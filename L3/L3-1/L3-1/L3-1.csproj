@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>L3_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\X\Documents\Laboratoare\L3F\Rezolvare ex1 %28partial1%29.cs" Link="Rezolvare ex1 %28partial1%29.cs" />
+  </ItemGroup>
+
+</Project>

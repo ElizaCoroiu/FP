@@ -1,0 +1,10 @@
+Partial 1
+
+1. Ecuatia de gradul 2
+2. Se dau 5 numere. Afisati suma maxima a 3 dintre ele.
+3. Pentru n dat afisati seria 
+	{n=n/2 daca n%2==0
+	 n=n*3+1 daca n%2==1
+	pana cand n==1
+4. Se dau 8 valori reprezentand 4 puncte in plan Ax Ay Bx By Cy Cy Dx Dy
+    Se cere afisarea ounctului de intersectie al dreptelor AB intersectat CD
