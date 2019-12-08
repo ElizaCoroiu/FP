@@ -8,7 +8,7 @@ namespace LAB._9_1
         static void Main(string[] args)
         {
             // Se da un vector de n valori intregi
-            // Se cere cele mai mari 3 valori
+            // Se cer cele mai mari 3 valori
 
             int n = int.Parse(Console.ReadLine());
             int[] v = new int[n];
